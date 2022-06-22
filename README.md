@@ -1,7 +1,7 @@
 # DapperCRUD
-CRUD Operations In ASP.NET MVC 5 Using Dapper
+CRUD Operations in ASP.NET MVC 5 Using Dapper and Stored Procedure
 
-Stored Procedures I used in SQL Server (MSSQL)
+Stored Procedures in MSSQL
 - AddNewEmpDetails
 - GetEmployees
 - UpdateEmpDetails
